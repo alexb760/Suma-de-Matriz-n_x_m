@@ -10,8 +10,10 @@ PROBLEMA:
  * 
  * PROBLEMA PLANTEADO.
  
-Sumar matrices Sumar dos matrices tales qué, A(nXm) y B(sXt) sin importar las dimensiones. se genere una nueva
-matriz.
+Sumar dos matrices tales qué, A(nXm) y B(sXt) sin importar las dimensiones. se genere una nueva
+matriz. sumando solo los valores que correspondan a las dimención y adicionando los valores que sobran. 
+
+
 
 
 
